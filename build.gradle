@@ -1,0 +1,4 @@
+
+ext.COMMON_GRADLE = "$rootDir/gradle/common.gradle"
+
+
