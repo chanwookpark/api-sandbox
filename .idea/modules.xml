@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/api-sandbox.iml" filepath="$PROJECT_DIR$/api-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-sandbox-build.iml" filepath="$PROJECT_DIR$/api-sandbox-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
     </modules>
   </component>
